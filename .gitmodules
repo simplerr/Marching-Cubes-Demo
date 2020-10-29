@@ -1,0 +1,3 @@
+[submodule "UtopianEngine"]
+	path = UtopianEngine
+	url = https://github.com/simplerr/UtopianEngine
